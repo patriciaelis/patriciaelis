@@ -3,7 +3,7 @@
   <br>
 -  🚀 Trabalho atualmente como UI Designer
    <br>
--  💞️ Sou estudante de Design Gráfico
+-  💞️ Sou formada em Tecnologia de Design Gráfico
 
 ## Ferramentas e Tecnologias
 
